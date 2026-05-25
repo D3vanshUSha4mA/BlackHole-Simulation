@@ -1,0 +1,42 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "type": "cppbuild",
+      "label": "Build OpenGL app",
+      "command": "g++",
+      "args": [
+        "-g",
+        "-std=c++17",
+
+        // headers (glad + glfw)
+        "-I${workspaceFolder}/include",
+
+        // source files
+        "${workspaceFolder}/src/black_hole.cpp",
+        "${workspaceFolder}/src/glad.c",
+
+        // libraries
+        "-L${workspaceFolder}/lib",
+        "-lglfw3dll",
+        "-lopengl32",
+        "-lgdi32",
+
+        // output
+        "-o",
+        "${workspaceFolder}/app.exe"
+      ],
+      "options": {
+        "cwd": "${workspaceFolder}"
+      },
+      "problemMatcher": [
+        "$gcc"
+      ],
+      "group": {
+        "kind": "build",
+        "isDefault": true
+      },
+      "detail": "compiler: g++"
+    }
+  ]
+}
