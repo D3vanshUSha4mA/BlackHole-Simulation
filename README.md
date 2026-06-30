@@ -341,7 +341,7 @@ RelativisticBlackHole/
 ## Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/RelativisticBlackHole.git
+git clone https://github.com/D3vanshUSha4mA/BlackHole-Simulation
 ```
 
 ---
