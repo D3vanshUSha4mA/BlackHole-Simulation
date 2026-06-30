@@ -293,7 +293,7 @@ RelativisticBlackHole/
 
 ## 2D Prototype
 
-> Replace the image below with your 2D prototype screenshot.
+
 
 <p align="center">
 
@@ -305,7 +305,7 @@ RelativisticBlackHole/
 
 ## Final GPU Renderer
 
-> Replace the image below with your final renderer screenshot or GIF.
+
 
 <p align="center">
 
