@@ -26,7 +26,7 @@
 
 <img src="images/showcase.png" width="900" alt="Black Hole Engine Showcase">
 
-*(Replace with your best rendered image or GIF.)*
+
 
 </div>
 
