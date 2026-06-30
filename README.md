@@ -2,11 +2,11 @@
 
 <div align="center">
 
-[![Contributors][contributors-shield]][../../contributors)
-[![Forks][forks-shield]][../../network/members)
-[![Stargazers][stars-shield]][../../stargazers)
-[![Issues][issues-shield]][../../issues)
-[![MIT License][license-shield]][LICENSE)
+[![Contributors](https://img.shields.io/github/contributors/D3vanshUSha4mA/BlackHole-Simulation?style=for-the-badge)](https://github.com/D3vanshUSha4mA/BlackHole-Simulation/graphs/contributors)
+[![Forks](https://img.shields.io/github/forks/D3vanshUSha4mA/BlackHole-Simulation?style=for-the-badge)](https://github.com/D3vanshUSha4mA/BlackHole-Simulation/network/members)
+[![Stars](https://img.shields.io/github/stars/D3vanshUSha4mA/BlackHole-Simulation?style=for-the-badge)](https://github.com/D3vanshUSha4mA/BlackHole-Simulation/stargazers)
+[![Issues](https://img.shields.io/github/issues/D3vanshUSha4mA/BlackHole-Simulation?style=for-the-badge)](https://github.com/D3vanshUSha4mA/BlackHole-Simulation/issues)
+[![License](https://img.shields.io/github/license/D3vanshUSha4mA/BlackHole-Simulation?style=for-the-badge)](https://github.com/D3vanshUSha4mA/BlackHole-Simulation/blob/main/LICENSE)
 
 </div>
 
